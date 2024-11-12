@@ -1,0 +1,7 @@
+
+Error loading file data\paper1.pdf
+Error loading documents: None
+Error splitting documents: name 'documents' is not defined
+Error vectorizing documents: name 'text_chunks' is not defined
+2024-11-12 01:02:03.479 Examining the path of torch.classes raised: Tried to instantiate class '__path__._path', but it does not exist! Ensure that it is registered via torch::class_
+

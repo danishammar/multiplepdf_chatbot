@@ -1,0 +1,37 @@
+# BERT-Based Models (General NLP tasks)
+# "bert-base-uncased" - A standard BERT model (good for most tasks)
+# "bert-large-uncased" - A larger version of BERT (higher accuracy but slower)
+# "bert-base-cased" - BERT model with case sensitivity
+
+# DistilBERT (Smaller, faster variant of BERT)
+# "distilbert-base-uncased" - A smaller version of BERT, faster with decent accuracy
+# "distilbert-base-cased" - Case-sensitive variant of DistilBERT
+
+# RoBERTa (Improved BERT-based model)
+# "roberta-base" - A popular variant of BERT with improved performance
+# "roberta-large" - Larger version of RoBERTa (more accurate but slower)
+
+# Longformer (For long documents, handles large context windows)
+# "allenai/longformer-base-4096" - Longformer for processing long documents
+
+# Sentence-BERT (For sentence embeddings, semantic search)
+# "all-MiniLM-L6-v2" - Efficient sentence embeddings model
+# "paraphrase-MiniLM-L6-v2" - Small and fast, ideal for paraphrase tasks
+# "paraphrase-distilroberta-base-v1" - Another option for paraphrase and sentence-level tasks
+
+# GPT Models (For advanced generation and embeddings)
+# "gpt-3.5-turbo" - OpenAI's GPT-3.5 model for generation and embeddings (via API)
+# "gpt-4" - OpenAI's GPT-4 model for more advanced tasks (via API)
+
+# T5 (Text-to-Text model, useful for generation tasks like summarization)
+# "t5-small" - A smaller version of T5 for text-to-text tasks
+# "t5-base" - Standard T5 model for text generation tasks
+# "t5-large" - Larger version of T5 with improved performance
+
+# ALBERT (A smaller and faster variant of BERT)
+# "albert-base-v2" - A smaller and efficient version of BERT
+# "albert-large-v2" - Larger version with better performance but slower
+
+# XLNet (Alternative to BERT with improved language modeling capabilities)
+# "xlnet-base-cased" - XLNet model for tasks like text classification
+# "xlnet-large-cased" - Larger variant of XLNet with better performance
